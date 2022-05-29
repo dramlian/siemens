@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpUsRKjRoIRyqQ9UoA8DR4Rc7lCZDynwWHDYCv3wl1VxNzY3/WviEiVSFpujtaHArRgUMpUi2D5SeNFm8qIm+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damian Jankov\\Desktop\\c_sharp_jun - final\\Projekt1\\Projekt1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damian Jankov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

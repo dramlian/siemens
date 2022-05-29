@@ -1,0 +1,34 @@
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Projekt1.exe
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CopyComplete
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Projekt1.exe
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Projekt1.deps.json
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Projekt1.runtimeconfig.json
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Projekt1.pdb
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.csproj.AssemblyReference.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfoInputs.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.AssemblyInfo.cs
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.csproj.CopyComplete
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\refint\Projekt1.dll
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.pdb
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\Projekt1.genruntimeconfig.cache
+C:\Users\Damian Jankov\Desktop\c_sharp_jun - final\Projekt1\obj\Debug\net6.0\ref\Projekt1.dll
